@@ -12,7 +12,7 @@ import requests as r
 init(autoreset=True)
 
 CONFIG = {
-    "password": "@Sangkara123",
+    "password": "@Arutala123",
     "Proxy_ZIP": "proxy_auth_plugin.zip"
 }
 
